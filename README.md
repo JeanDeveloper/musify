@@ -27,9 +27,9 @@ Una moderna aplicación de reproducción de música desarrollada con **Kotlin** 
 
 ## 📷 Capturas de pantalla
 <p align="center">
-  <img src="assets/image1.png" width="30%">
-  <img src="assets/image2.png" width="30%">
-  <img src="assets/image3.png" width="30%">
+  <img src="images/image1.png" width="30%">
+  <img src="images/image2.png" width="30%">
+  <img src="images/image3.png" width="30%">
 </p>
 
 
